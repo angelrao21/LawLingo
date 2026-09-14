@@ -1,2 +1,3 @@
-# LawLingo
-Complete Framework for understanding and reasoning of legal documents
+<div align="center">
+  <img src="assets/lawlingo-hero.gif" width="100%">
+</div>
